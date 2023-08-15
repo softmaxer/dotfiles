@@ -7,6 +7,9 @@ new update: vimrc and i3lock updates.
 Here's my current config running PopOS with neovim and ranger.
 ![](new_rice.png)
 
+
+## Previous config
+
 ### i3 config file available in the i3 folder. I3lock -> blurs screen
 To make sure the i3lock.sh works, change the file to executable.
 i.e., chmod +x i3lock.sh
