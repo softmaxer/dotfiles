@@ -60,3 +60,5 @@ lspconfig.html.setup({
   capabilities = capabilities,
   filetypes = {"html"}
 })
+
+lspconfig.clangd.setup({})
